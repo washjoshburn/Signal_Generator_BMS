@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=GND Pin=3-4
+Added Component: Designator=J1(AMPHENOL_GSB1C411101DS1HR)
+Add component (AddParameter): Name = "Case/Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GSB1C411101DS1HR/Amphenol/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "GSB1C411101DS1HR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Amphenol Canada"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GSB1C411101DS1HR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GSB1C411101DS1HR/Amphenol/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "GSB1C411101DS1HR.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=USBA1(AUY1005R)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://media.digikey.com/pdf/Data%20Sheets/Assmann%20PDFs/AU-Y1005-R_Dwg.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ASSMANN WSW components GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AU-Y1005-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vbat Pin=3-4
+Added Pin To Net: NetName=GND Pin=J1-A1B12
+Added Pin To Net: NetName=NetC4_1 Pin=J1-A4B9
+Added Pin To Net: NetName=Vout Pin=USBA1-1
+Added Pin To Net: NetName=GND Pin=USBA1-4
+Added Pin To Net: NetName=GND Pin=USBA1-MH1
+Added Pin To Net: NetName=GND Pin=USBA1-MH2

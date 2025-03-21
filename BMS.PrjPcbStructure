@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Top.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_2.5V|SchDesignator=U_2.5V|FileName=2.5V.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=2.5V.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_5VBoost|SchDesignator=U_5VBoost|FileName=5VBoost.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=5VBoost.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_Undervoltage|SchDesignator=U_Undervoltage|FileName=Undervoltage.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Undervoltage.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
